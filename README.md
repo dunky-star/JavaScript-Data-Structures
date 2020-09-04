@@ -5,6 +5,6 @@
 * Searching algorithms.
 * Probems solving patterns: 
     1. Divide & Conquer
-	  2. Sliding windows
-	  3. Frequency counter patterns
+    2. Sliding windows
+    3. Frequency counter patterns
 
