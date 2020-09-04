@@ -3,7 +3,8 @@
 * Big O Notation: Analyze your code’s time and space complexity using Big O notation.
 * Sorting Algorithm: Different sorting algorithms - Bubble, Selection, Insertion, Quick, Merge, and Radix Sort. 
 * Searching algorithms.
-* Tress traversial, graphs, and Dijkstra's Shortest Path.
+* JavaScript implementation of linked lists, trees, heaps, hash tables, and graphs.
+* Tree traversial, graphs, and Dijkstra's Shortest Path.
 * Dynamic Programming.
 * Probems solving patterns: 
     1. Divide & Conquer
